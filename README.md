@@ -25,6 +25,10 @@ test repo
 test repository
 
 
+testable repo 
+testing repo
+
+
 # test-repo
 test repo
 
